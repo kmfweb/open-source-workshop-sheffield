@@ -1,5 +1,6 @@
 # open-source-workshop-sheffield
 
 TO DO LIST
-- cook
 - eat
+- wash up dishes
+FINISHED!
