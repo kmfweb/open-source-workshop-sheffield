@@ -7,3 +7,4 @@ FINISHED!
 
 FOR TOMORROW
 - buy fruits
+- wash fruits if not organic
